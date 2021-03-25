@@ -9,5 +9,5 @@ Para ejecutar:
 node app.js
 ```
 
-![Ejemplo de ejecución](/04-tareas-hacer/CapturaMuestra.png "Ejemplo de ejecución")
+![Ejemplo de ejecución](CapturaMuestra.png "Ejemplo de ejecución")
 
